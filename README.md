@@ -11,6 +11,7 @@
    
 **- 🌱 I’m currently learning: <br/>**
       ```HTML``` <br/>
+      ```Python``` <br/>
 
 **- 📫 How to reach me: <br/>**
       ```Discord: Nex#5358```
