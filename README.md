@@ -7,6 +7,7 @@
       ```Java``` <br/>
       ```Dax``` <br/>
       ```C``` <br/> 
+      ```C++``` <br/> 
       ```Bash``` <br/>
    
 **- 🌱 I’m currently learning: <br/>**
