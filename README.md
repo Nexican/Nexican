@@ -15,4 +15,4 @@
       ```Python``` <br/>
 
 **- 📫 How to reach me: <br/>**
-      ```Discord: Nex#5358```
+      ```Discord: Nex#3542```
