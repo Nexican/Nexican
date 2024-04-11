@@ -1,7 +1,7 @@
 ### Hi there
 
 **- 🔭 I’m currently working on: <br/>**
-      ```Dreambot```
+      ```Discord```
 
 **- 👨‍💻 I know the following languages: <br/>**
       ```Java``` <br/>
@@ -15,4 +15,4 @@
       ```Python``` <br/>
 
 **- 📫 How to reach me: <br/>**
-      ```Discord: Nex#3542```
+      ```Discord: Nex3542```
