@@ -1,7 +1,7 @@
 ### Hi there
 
 **- 🔭 I’m currently working on: <br/>**
-      ```Discord```
+      ```Developing new software```
 
 **- 👨‍💻 I know the following languages: <br/>**
       ```Java``` <br/>
@@ -9,10 +9,11 @@
       ```C``` <br/> 
       ```C++``` <br/> 
       ```Bash``` <br/>
-   
-**- 🌱 I’m currently learning: <br/>**
       ```HTML``` <br/>
       ```Python``` <br/>
+   
+**- 🌱 I’m currently learning: <br/>**
+      ```Php``` <br/>
 
 **- 📫 How to reach me: <br/>**
       ```Discord: Nex3542```
